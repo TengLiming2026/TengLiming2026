@@ -1,16 +1,33 @@
 
-[google]:(https://www.google.com/)
+[google](https://www.google.com/)
 
-![图片名字](123.jpg)
-![图片名字](6.png)
 ***
+![图片名字](123.jpg)
+
+![图片名字](6.png)
+
+***
+# 仓库状态统计
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TengLiming2026&show_icons=true&theme=transparent)
+
+# 主页访问量统计
+![Visitor Count](https://profile-counter.glitch.me/TengLiming2026/count.svg)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TengLiming2026&show_icons=true&theme=transparent" />
+  <br/>
+  <img src="https://profile-counter.glitch.me/TengLiming2026/count.svg" />
+</p>
+
+***
+
  |  表头 |  表头  |
  |  ---- |  ----  |
  |  AA |  BB |
  |  表头 |  表头  |
 
 ***
-![ ](https://github-readme-stats.vercel.app/api?username=tech-shrimp&show_icons=true&theme=transparent)
+
 
 
 
