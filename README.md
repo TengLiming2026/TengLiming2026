@@ -7,11 +7,11 @@
 ![图片名字](6.png)
 
 ***
-# 仓库状态统计
+# 📊 仓库状态统计
 ![](https://github-readme-stats.vercel.app/api?username=TengLiming2026&show_icons=true&theme=transparent)
 
-# 主页访问量统计
-![](https://profile-counter.glitch.me/TengLiming2026.com/count.svg)
+# 👀 主页访问量统计
+![](https://profile-counter.glitch.me/TengLiming2026/count.svg)
 
 
 ***
