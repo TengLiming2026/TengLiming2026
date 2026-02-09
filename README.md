@@ -8,16 +8,11 @@
 
 ***
 # 仓库状态统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TengLiming2026&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=TengLiming2026&show_icons=true&theme=transparent)
 
 # 主页访问量统计
-![Visitor Count](https://profile-counter.glitch.me/TengLiming2026/count.svg)
+![](https://profile-counter.glitch.me/TengLiming2026.com/count.svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TengLiming2026&show_icons=true&theme=transparent" />
-  <br/>
-  <img src="https://profile-counter.glitch.me/TengLiming2026/count.svg" />
-</p>
 
 ***
 
